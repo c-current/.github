@@ -1,5 +1,5 @@
-## Oasis RP
+## Current
 
-- Oasis is a FiveM Semi-RP/Fragging server.
+- Current is a Freeroam/Deathmatch Server.
 
-- [Discord](https://discord.gg/orp)
+- [Discord](https://discord.gg/current)
